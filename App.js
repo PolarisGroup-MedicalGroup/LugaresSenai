@@ -82,7 +82,7 @@ function BanheiroScreen({ navigation }) {
 
     <View style={stylesH.container}>
 
-      <Text style={stylesH.title}>Banheiro</Text>
+      <Text style={stylesH.title}>Banheiro-Pedro</Text>
 
       <Image source={{uri:'https://raw.githubusercontent.com/PolarisGroup-MedicalGroup/LugaresSenai/main/banheiro.jpg'}}
 
@@ -108,7 +108,7 @@ function BibliotecaScreen({ navigation }) {
 
     <View style={stylesH.container}>
 
-      <Text style={stylesH.title}>Biblioteca</Text>
+      <Text style={stylesH.title}>Biblioteca-Hugo</Text>
 
       <Image source={{uri:'https://raw.githubusercontent.com/PolarisGroup-MedicalGroup/LugaresSenai/main/bibli.jpg'}}
 
@@ -134,7 +134,7 @@ function BancosScreen({ navigation }) {
 
         <View style={stylesB.container}>
 
-        <Text style={stylesB.title}>Bancos</Text>
+        <Text style={stylesB.title}>Bancos-Andrey</Text>
 
         <Image source={{uri:'https://raw.githubusercontent.com/PolarisGroup-MedicalGroup/LugaresSenai/main/bancos.jpg'}}
 
@@ -160,7 +160,7 @@ function BancosScreen({ navigation }) {
 
         <View style={stylesA.container}>
 
-      <Text style={stylesA.title}>Almoço</Text>
+      <Text style={stylesA.title}>Almoço-Wesley</Text>
 
       <Image source={{uri:'https://raw.githubusercontent.com/PolarisGroup-MedicalGroup/LugaresSenai/main/almoco.jpg'}}
 
@@ -186,7 +186,7 @@ function BancosScreen({ navigation }) {
 
         <View style={stylesC.container}>
 
-        <Text style={stylesC.title}>Entrada/saída</Text>
+        <Text style={stylesC.title}>Entrada/saída-Thiago</Text>
 
         <Image source={{uri:'https://raw.githubusercontent.com/PolarisGroup-MedicalGroup/LugaresSenai/main/saida.jpg'}}
 
